@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document  for mmycollegeday.php */
+.m_main_page
+{
+	width:100%;
+	min-width:200px;
+	max-width:800px;
+}
+.m_head
+{
+	background-color:#063;
+	min-height:30px;
+	max-height:60px;
+	width:100%;
+	
+}
+
+.m_mainpage
+{
+	
+}
+.post_input
+{
+	width:100%;
+	min-height:100px;
+	background-color:#069;
+}
+.status_input
+{
+	width:90%;
+	
+}
+.show
+{
+	
+background-color:#F9F9F9;
+width:90%;
+
+padding-left:10%;
+padding-top:10px;
+
+}
+.angel
+{
+	width:90%;
+	background-color:;
+	min-height:150px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.angel_head
+{
+	
+	background-color:;
+	width:100%;
+	min-height:60px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	
+}
+.angel_head_p1
+{
+	
+	width:20%;
+	height:100%;
+	float:left;
+}
+.angel_head_p2
+{
+	
+	width:80%;
+	height:100%;
+	float:left;
+}
+.angel_img_spp
+{
+	width:60%;
+	min-height:40px;
+	
+	
+}
+.angel_body
+{
+	
+	background-color:;
+	width:100%;
+	min-height:50px;
+}
+.angel_bottom
+{
+	background-color:#6C6;
+	width:100%;
+	min-height:50px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+img
+{
+	padding-left:10%;
+	padding-right:10%;
+	width:80%;
+	padding-top:10px;
+	padding-bottom:10px;
+	min-height:100px;
+	max-height:300px;
+	
+	
+}

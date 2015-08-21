@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS document for datastor group pagedesign wrtn by haikent  */
+
+body
+{
+	background-color:#6C3;
+}
+
+.form
+{
+	background-color:#CF9;
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:10%;
+	left:30%;
+	z-index:200;
+    padding-top:50px;
+	padding-left:30px;
+}
+td
+{
+	
+	height:50px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#33F;
+	font-size:18px;	
+}
+
+.input_data
+{
+	width:50%;
+	height:50px;
+}
+
+file
+{
+	border-bottom-left-radius:2px;
+	border-bottom-right-radius:2px;
+	border-top-left-radius:2px;
+	border-top-right-radius:2px;
+}
+	

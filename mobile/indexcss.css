@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.m_mmainpage
+{
+	background-color: #E8E3E8;
+	width:100%;
+	max-width:880px;
+	min-width:200px;
+}
+
+.mindex_head
+{
+	width:99.5%;
+	max-height:60px;
+	min-height:30px;
+	background-color:#060;
+	border:1.1px outset #030;
+	
+}
+.logo
+{
+	width:60%;
+	max-height:40px;
+	min-height:30px;
+	max-width:500px;
+	padding-left:20%;
+}
+.mindex_body
+{
+	padding-left:10%;
+}
+.id_input
+{
+	
+	width:70%;
+	max-width:500px;
+	min-height:30px;
+    max-height:40px;
+	border:1px solid #CCC;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+.password_input
+{
+	width:70%;
+	max-width:500px;
+	min-height:30px;
+    max-height:40px;
+	border:1px solid #CCC;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.gap_type_1
+{
+	width:100%;
+	min-height:30px;
+	max-height:50px;
+	
+	
+}
+.login_button
+{
+	background-color:#0C0;
+	width:70%;
+	max-width:500px;
+	min-height:30px;
+    max-height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border:1.2px  outset #0C3;
+	color:#FFF;
+	font-stretch:extra-condensed;
+	
+}
+.signup_button
+{
+	background-color:#00C;
+	width:70%;
+	max-width:500px;
+	min-height:30px;
+    max-height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border:1.2px outset #63C;
+	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color:#FFF;
+	font-stretch:extra-condensed;
+	}
+.notice
+{
+	width:70%;
+	min-height:60px;
+	max-height:80px;
+	background-color:#6F0;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+.my_word
+{
+	font:13px Courier New, Courier, monospace;
+	color:#030;
+}

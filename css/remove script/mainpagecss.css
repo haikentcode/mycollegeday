@@ -1,0 +1,315 @@
+body
+{
+ /* Disable scrollbars and ensure that the body fills the window */
+                overflow: hidden;
+                width: 100%;
+                height: 100%;
+			
+				
+				
+				
+}
+.mycollegeday_user_page
+{
+
+}
+.head_welcompage
+{
+/* Provide scrollbars if needed and fix the header dimensions */
+                overflow: auto;
+                position: absolute;
+                width:83%;
+                height: 40px;
+				background-color:#009900;
+				padding-top:4px;
+				position:absolute;
+				top:0px;
+				left:0px;
+				z-index:3;
+}
+.main_page
+{
+/* Provide scrollbars if needed, position below header, and derive height from top/bottom */
+                overflow: auto;
+                position: absolute;
+                width: 99.5%;
+				min-width:1000px;
+                top: 0px;
+                bottom: 0; 
+				padding-top:50px;
+				
+				
+				
+				
+}
+.div_1
+{
+padding-left:1%;
+width:15%;
+height:;
+float:left;
+
+}
+.div_2
+{
+width:64%;
+border:1px solid #D0D0D0;
+float:left;
+border-top:0px solid white;
+
+
+}
+.div_3
+{
+float:left;
+width:15%;
+
+}
+
+.serch
+{
+width:85%;
+height:25px;
+border-bottom-left-radius:5px 5px;
+
+border-bottom-left-radius:5px 5px;
+border-top-left-radius:5px 5px;
+}
+.serch_button
+{
+width:5%;
+border-left:0px solid white;
+border-top-right-radius:5px 5px;
+border-bottom-right-radius:5px 5px;
+height:25px;
+}
+#head_div_1
+{
+width:15%;
+float:left;
+height:100%;
+}
+#head_div_2
+{
+width:50%;
+height:100%;
+float:left;
+}
+#head_div_3
+{
+width:35%;
+height:100%;
+float:left;
+
+}
+dt
+{
+font-size:18px;
+color:#808080 ;
+}
+dd
+{
+font:15px Franklin Gothic Book; 
+cursor:pointer;
+color:#383838 ;
+}
+.status_show_part
+{
+width:100%;
+}
+.status_input
+{
+width:59.5%;
+border:1px solid blue;
+resize:none;
+height:25px;
+overflow:hidden;
+}
+.status_menu
+{
+border:1px solid blue;
+
+width:59.5%;
+height:30px;
+background-color:#D8D8D8 ;
+}
+#post
+{
+width:50px;
+height:100%;
+}
+.status_box
+{
+padding-top:30px;
+padding-left:30px;
+padding-bottom:30px;
+width:100%;
+}
+img
+{
+width:100%;
+height:100%;
+max-width:400px;
+max-height:500px;
+
+}
+.icon
+{
+width:15px;
+height:15px;
+}
+#sitelogo
+{
+width:30px;
+height:30px;
+float:right;
+position:absolute;
+left:12%;
+top:5px;
+
+cursor:pointer;
+border-bottom-left-radius:5px 5px;
+border-bottom-right-radius:5px 5px;
+border-top-left-radius:5px 5px;
+border-top-right-radius:5px 5px;
+
+}
+
+a
+{
+text-decoration: none
+
+}
+a:link {color:#FF0000;}    /* unvisited link */
+a:visited {color:blue;} /* visited link */
+a:hover {color:#FF00FF;}   /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+
+
+#uploadimage
+{
+position:absolute;
+z-index:5;
+top:20%;
+left:30%;
+background-color:white;
+opacity:0.9;
+border:20px solid green;
+width:400px;
+height:200px;
+padding-top:20px;
+padding-left:20px;
+border-bottom-left-radius:5px 5px;
+border-bottom-right-radius:5px 5px;
+border-top-left-radius:5px 5px;
+border-top-right-radius:5px 5px;
+
+
+}
+#backblacklayer
+{
+width:1340px;
+height:100%;
+background-color:black;
+z-index:4;
+opacity:0.5;
+position:absolute;
+left:0px;
+top:0px;
+
+}
+
+/*__________________________________________status_____________________________________________________________*/
+
+.adital
+{
+width:60%;
+background-color:#9F0;
+}
+.A
+{
+width:18%;
+float:left;
+background-color:#069;
+}
+
+.B
+{
+width:80%;
+float:left;
+background-color:#0C6;
+}
+.b1
+{
+width:100%;
+height:20px;
+background-color: #F00;
+float:left;
+}
+.b2
+{
+width:100%;
+height:10px;
+background-color: #93F;
+float:left;
+}
+.b3
+{
+width:100%;
+float:left;
+background-color: #FF3;
+}
+.b31
+{
+width:5px;
+float:left;
+background-color:;
+height:100px;
+}
+.b32
+{
+width:350px;
+background-color:;
+float:left;
+}
+.b321
+{
+width:100%;
+background-color:;
+float:left;
+}
+.b322
+{
+width:100%;
+min-height:60px;
+height:10%;
+background-color:#F0F;
+float:left;
+}
+.b323
+{
+width:100%;
+display:none;
+background-color:#D0D0D0;
+float:left;
+font-size:13px;
+}
+.comment_input
+{
+width:90%;
+height:; /*hkllllll*/
+float:left;
+
+}
+.cp_userimage
+{
+width:10%;
+height:50%;
+float:left;
+
+}
+
+
+
+/*____________________________________________________________________________________________________________________________*/
